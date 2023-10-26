@@ -10,7 +10,6 @@
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
-  background-color: #050816;
 }
 
 html {
@@ -23,6 +22,10 @@ html:focus-within {
 
 html, body {
   overflow-x: hidden;
+}
+
+body {
+  background-color: #050816;
 }
 
 ::-webkit-scrollbar{
