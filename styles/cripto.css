@@ -1,0 +1,32 @@
+main {
+  margin-bottom: 112px;
+}
+
+main h1 {
+  padding-right: 198px;
+  padding-left: 198px;
+}
+
+.information {
+  padding-right: 198px;
+  padding-left: 198px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.information p {
+  max-width: 432px;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.information img {
+  width: 400px;
+}
+
+section {
+  padding-right: 198px;
+  padding-left: 198px;
+  margin-bottom: 112px;
+}
