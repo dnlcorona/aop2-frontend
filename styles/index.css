@@ -35,6 +35,7 @@
   height: 42px;
   border-radius: 22px;
   background-color: #915eff;
+  outline: #915eff solid 3px;
   color: white;
   font-size: 18px;
   font-weight: 600;
@@ -43,6 +44,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.hero-button:hover {
+  background-color: #050816;
+  transition: all 0.3s ease;
 }
 
 .about {
