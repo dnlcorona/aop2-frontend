@@ -54,7 +54,6 @@
 .about {
   background-color: #915eff;
   height: 260px;
-  margin-bottom: 64px;
   padding-right: 198px;
   padding-left: 198px;
   display: flex;
@@ -78,12 +77,6 @@
   color: #f1f1f1;
   line-height: 22px;
   font-size: 18px;
-}
-
-.footer {
-  padding-right: 198px;
-  padding-left: 198px;
-  padding-bottom: 20px;
 }
 
 .down-arrow {
