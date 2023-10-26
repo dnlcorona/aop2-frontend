@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 198px 20px 198px;
+  margin-bottom: 64px;
+}
+
+.header .logo {
+  font-size: 36px;
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+}
+
+.header .links {
+  display: flex;
+  gap: 32px;
+}
+
+.header .links a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+}
+
+.header .links a:hover {
+  color: #915eff;
+  transition: all 0.3s ease;
+}
