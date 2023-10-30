@@ -103,6 +103,45 @@
   transform: rotateZ(45deg);
 }
 
+.informations {
+  padding-top: 48px;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  padding-right: 198px;
+  padding-left: 198px;
+}
+
+.investimets-section {
+  cursor: pointer;
+  height: 80px;
+}
+
+.investimets-section:hover {
+  background-color: #915eff13;
+}
+
+.investimets-section:hover > svg{
+  color: #915eff;
+}
+
+.informations svg {
+  max-width: 80px;
+  width: 100%;
+}
+
+.informations a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.informations .investimets-section {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
 @keyframes jumpInfinite {
   0% {
     margin-top: 0;
