@@ -19,6 +19,12 @@ main h1 {
   max-width: 432px;
   width: 100%;
   word-wrap: break-word;
+  line-height: 22px;
+}
+
+.information span {
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .information img {
@@ -29,4 +35,18 @@ section {
   padding-right: 198px;
   padding-left: 198px;
   margin-bottom: 112px;
+}
+
+section h2 {
+  margin-bottom: 12px;
+}
+
+#criptoIcon{
+  width: 30px;
+  margin-right: 8px;
+}
+
+.table{
+  text-align: center;
+  text-align: justify;
 }
