@@ -120,6 +120,7 @@
 
 .investimets-section:hover {
   background-color: #915eff13;
+  border-radius: 20px;
 }
 
 .investimets-section:hover > svg{
