@@ -1,15 +1,14 @@
 main {
   margin-bottom: 112px;
+  padding-right: 198px;
+  padding-left: 198px;
 }
 
 main h1 {
-  padding-right: 198px;
-  padding-left: 198px;
+  margin-bottom: 12px;
 }
 
 .information {
-  padding-right: 198px;
-  padding-left: 198px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -41,12 +40,7 @@ section h2 {
   margin-bottom: 12px;
 }
 
-#criptoIcon{
+#criptoIcon {
   width: 30px;
   margin-right: 8px;
-}
-
-.table{
-  text-align: center;
-  text-align: justify;
 }
