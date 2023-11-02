@@ -1,17 +1,26 @@
 main {
+  margin-bottom: 64px;
   padding-right: 198px;
   padding-left: 198px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  margin-bottom: 20px;
 }
 
 main h1 {
-  font-size: 38px;
+  margin-bottom: 12px;
+}
+
+.information p {
+  max-width: 432px;
+  width: 100%;
+  word-wrap: break-word;
+  line-height: 22px;
 }
 
 section {
   padding-right: 198px;
   padding-left: 198px;
 }
+
+section h2 {
+  margin-bottom: 12px;
+}
+
