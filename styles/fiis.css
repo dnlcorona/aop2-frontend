@@ -9,6 +9,32 @@ main h1 {
 }
 
 .information p {
+  max-width: 432px;
+  width: 100%;
   word-wrap: break-word;
   line-height: 22px;
+}
+
+
+.fiiIcon {
+  width: 30px;
+  margin-right: 8px;
+  filter: invert(1);
+}
+
+.examples img.fiiIcon {
+  max-width: 30px;
+  height: auto;
+  margin-right: 8px;
+  filter: invert(1);
+}
+
+#examples {
+  padding-right: 198px;
+  padding-left: 198px;
+  margin-bottom: 12px;
+}
+
+.footer {
+  margin-top: 24px;
 }
